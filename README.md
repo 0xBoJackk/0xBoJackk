@@ -7,15 +7,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36"/>
-<img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="36" height="36"/>
-<img src="https://cdn.simpleicons.org/r" alt="Statistics" width="36" height="36"/>
-
-
-
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/r" alt="Statistics" width="36" height="36"/>
 
   <!-- Backend Development -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="36" height="36"/>
@@ -23,7 +19,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
-  
+
+  <!-- Product Analyst / Tools -->
+  <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/airtable" alt="Airtable" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="36" height="36"/>
+
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
@@ -32,6 +37,10 @@
 
 <p align="center">
   <b>Android &nbsp; | &nbsp; Kotlin &nbsp; | &nbsp; Backend &nbsp; | &nbsp; Java &nbsp; | &nbsp; Spring &nbsp; | &nbsp; Databases</b>
+</p>
+
+<p align="center">
+  <b>Product Analyst &nbsp; | &nbsp; Jira &nbsp; | &nbsp; Figma &nbsp; | &nbsp; Notion &nbsp; | &nbsp; Excel</b>
 </p>
 
 **Cloud Providers:**
@@ -46,8 +55,4 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Network+](https://img.shields.io/badge/CompTIA%20Network%2B-%23EC1C24.svg?style=for-the-badge&logo=comptia&logoColor=white)
 
-
 <img src="https://cdn.simpleicons.org/r" alt="Statistics" width="36" height="36"/>
-
-
-
