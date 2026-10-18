@@ -41,8 +41,6 @@
 </p>
 
 <p align="center">
-  <b>Jira &nbsp; | &nbsp; Figma &nbsp; | &nbsp; Notion &nbsp; | &nbsp; Airtable &nbsp; | &nbsp; Excel &nbsp; | &nbsp; Power BI</b>
-</p>
 
 **Cloud & Infrastructure:**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
