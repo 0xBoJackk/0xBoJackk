@@ -19,8 +19,7 @@
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="36" height="36"/>
   <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="36" height="36"/>
   <img src="https://cdn.simpleicons.org/airtable" alt="Airtable" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="36" height="36"/>
+
   <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="36" height="36"/>
   
   <!-- DevOps & Infrastructure -->
